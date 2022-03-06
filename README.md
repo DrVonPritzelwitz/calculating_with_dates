@@ -1,4 +1,4 @@
-# Opdracht 2 - calculating_with_dates
+# Opdracht 2 - Calculating with dates
 
 In deze opdracht ga je twee functies schrijven. In de functies moet je rekenen met datums
 
